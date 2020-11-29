@@ -1,0 +1,41 @@
+2020-11-28 20:02:11,385 [main] INFO  [com.hades.eduservice.EduApplication] StartupInfoLogger.java:55 - Starting EduApplication using Java 1.8.0_271 on HADESdeMacBook-Pro.local with PID 1979 (/Users/xiaolei/Desktop/Java/guli_parent/service/service_edu/target/classes started by xiaolei in /Users/xiaolei/Desktop/Java/guli_parent)
+2020-11-28 20:02:11,389 [main] INFO  [com.hades.eduservice.EduApplication] SpringApplication.java:664 - The following profiles are active: dev
+2020-11-28 20:02:12,870 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8001 (http)
+2020-11-28 20:02:12,886 [main] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2020-11-28 20:02:12,887 [main] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-28 20:02:13,010 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2020-11-28 20:02:13,010 [main] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:289 - Root WebApplicationContext: initialization completed in 1577 ms
+2020-11-28 20:02:13,244 [main] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:110 - HikariPool-1 - Starting...
+2020-11-28 20:02:13,397 [main] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:123 - HikariPool-1 - Start completed.
+2020-11-28 20:02:13,884 [main] INFO  [s.d.s.w.PropertySourcedRequestMappingHandlerMapping] PropertySourcedRequestMappingHandlerMapping.java:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-28 20:02:13,952 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-28 20:02:14,139 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8001 (http) with context path ''
+2020-11-28 20:02:14,140 [main] INFO  [s.d.s.web.plugins.DocumentationPluginsBootstrapper] DocumentationPluginsBootstrapper.java:147 - Context refreshed
+2020-11-28 20:02:14,152 [main] INFO  [s.d.s.web.plugins.DocumentationPluginsBootstrapper] DocumentationPluginsBootstrapper.java:150 - Found 1 custom documentation plugin(s)
+2020-11-28 20:02:14,182 [main] INFO  [s.d.spring.web.scanners.ApiListingReferenceScanner] ApiListingReferenceScanner.java:41 - Scanning for api listing references
+2020-11-28 20:02:14,324 [main] INFO  [com.hades.eduservice.EduApplication] StartupInfoLogger.java:61 - Started EduApplication in 3.404 seconds (JVM running for 4.383)
+2020-11-28 20:08:48,474 [SpringContextShutdownHook] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-28 20:08:48,478 [SpringContextShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:350 - HikariPool-1 - Shutdown initiated...
+2020-11-28 20:08:48,488 [SpringContextShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:352 - HikariPool-1 - Shutdown completed.
+2020-11-28 20:08:55,371 [main] INFO  [com.hades.eduservice.EduApplication] StartupInfoLogger.java:55 - Starting EduApplication using Java 1.8.0_271 on HADESdeMacBook-Pro.local with PID 2035 (/Users/xiaolei/Desktop/Java/guli_parent/service/service_edu/target/classes started by xiaolei in /Users/xiaolei/Desktop/Java/guli_parent)
+2020-11-28 20:08:55,375 [main] INFO  [com.hades.eduservice.EduApplication] SpringApplication.java:664 - The following profiles are active: dev
+2020-11-28 20:08:56,948 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8001 (http)
+2020-11-28 20:08:56,956 [main] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2020-11-28 20:08:56,956 [main] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-28 20:08:57,020 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2020-11-28 20:08:57,020 [main] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:289 - Root WebApplicationContext: initialization completed in 1554 ms
+2020-11-28 20:08:57,214 [main] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:110 - HikariPool-1 - Starting...
+2020-11-28 20:08:57,416 [main] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:123 - HikariPool-1 - Start completed.
+2020-11-28 20:08:57,992 [main] INFO  [s.d.s.w.PropertySourcedRequestMappingHandlerMapping] PropertySourcedRequestMappingHandlerMapping.java:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-28 20:08:58,060 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-28 20:08:58,262 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8001 (http) with context path ''
+2020-11-28 20:08:58,263 [main] INFO  [s.d.s.web.plugins.DocumentationPluginsBootstrapper] DocumentationPluginsBootstrapper.java:147 - Context refreshed
+2020-11-28 20:08:58,278 [main] INFO  [s.d.s.web.plugins.DocumentationPluginsBootstrapper] DocumentationPluginsBootstrapper.java:150 - Found 1 custom documentation plugin(s)
+2020-11-28 20:08:58,330 [main] INFO  [s.d.spring.web.scanners.ApiListingReferenceScanner] ApiListingReferenceScanner.java:41 - Scanning for api listing references
+2020-11-28 20:08:58,511 [main] INFO  [com.hades.eduservice.EduApplication] StartupInfoLogger.java:61 - Started EduApplication in 3.844 seconds (JVM running for 5.127)
+2020-11-28 20:09:09,399 [http-nio-8001-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-28 20:09:09,399 [http-nio-8001-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2020-11-28 20:09:09,401 [http-nio-8001-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 1 ms
+2020-11-28 22:00:19,152 [SpringContextShutdownHook] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-28 22:00:19,168 [SpringContextShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:350 - HikariPool-1 - Shutdown initiated...
+2020-11-28 22:00:19,175 [SpringContextShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] HikariDataSource.java:352 - HikariPool-1 - Shutdown completed.

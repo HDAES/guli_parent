@@ -5,9 +5,8 @@
     <modules>
         <module>service</module>
         <module>service_edu</module>
-        <module>service_edu</module>
-        <module>serice_edu</module>
         <module>common</module>
+        <module>common_utils</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
